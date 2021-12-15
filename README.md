@@ -1,2 +1,2 @@
-# W.I.S.E.-Browser
-Web Browser
+# W.I.S.E. Browser
+Web Browser Python
